@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=usamaSadiq-26&label=Profile%20views&color=FABD2F&style=flat" alt="usamaSadiq-26" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=HanzalaSheikh&label=Profile%20views&color=FABD2F&style=flat" alt="HanzalaSheikh" /> </p>
 
 #  About Me:
 I’m currently working on Hoopoe Studios<br><br>I’m currently learning AI & Automations<br><br>I’m looking to collaborate on Open Source Projects<br><br>I regularly write articles on Tech innovations at Medium<br><br>Ask me about Web & App Development, Database Management & Other technical problems   
